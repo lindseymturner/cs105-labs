@@ -1,0 +1,7 @@
+sex,race,c_charge_degree,c_charge_desc,decile_score,score_text,two_year_recid,r_charge_desc,r_charge_degree
+Male,Other,F,Aggravated Assault w/Firearm,1,Low,0,,
+Male,African-American,F,Felony Battery w/Prior Convict,3,Low,1,Felony Battery (Dom Strang),(F3)
+Male,African-American,F,Possession of Cocaine,4,Low,1,Driving Under The Influence,(M1)
+Male,African-American,F,Possession of Cannabis,8,High,0,,
+Male,Caucasian,,,,High,0,,
+,Caucasian,,,,Low,0,,

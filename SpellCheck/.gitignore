@@ -1,0 +1,17 @@
+# Note that comments can be used in .gitignore by prefixing #
+__pycache__
+*.pyc
+*~
+
+# Not sure if we could ignore some, but not all, .idea files.
+# For now, keep them all in git, since that lets us share configs
+#  We could allow only, e.g. the .iml files, I _think_, like so
+# .idea
+# !.idea/*.iml
+# See the top two or three answers (Hakim, Giuseppe, Ryan) of
+# https://stackoverflow.com/questions/987142/make-gitignore-ignore-everything-except-a-few-files
+
+venv
+
+# The .DS_Store is listed in case someone clones to a Mac
+.DS_Store

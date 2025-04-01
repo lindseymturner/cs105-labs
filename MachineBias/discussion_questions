@@ -1,0 +1,17 @@
+COMPAS, the recidivism algorithm investigated by ProPublica, calculates a recidivism risk score based off of this questionnaire completed by the person being assessed.
+Consider the following questions that are asked:
+
+"Were your parents or siblings ever arrested, that you know of?"
+"How many prior drug possession/use offense arrests [have you received]?"
+"Is there much crime in your neighborhood?"
+
+Though none of the questions directly mention race, how might they generate racial and socio-economic bias in the COMPAS algorithm?
+Consider factors such as over-policing of Black people in America and redlining of neighborhoods.
+
+Response:
+
+    The questions asked might generate racial and socio-economic bias, as people's answers will be impacted by the discrimination, or lack thereof, that they experience.
+For example, due to over-policing in Black-dominated neighborhoods, crime rates appear to be much higher. Areas with less policing will have lower crime-rates as criminals
+are less likely to be caught. It is more likely for someone who grew up in an over-policed community to have a parent or sibling who has been arrested. COMPAS
+was using racially biased information, and therefore produced a biased decision.
+

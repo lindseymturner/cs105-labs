@@ -1,0 +1,3 @@
+problem size        work prediction                         time prediction (sec)    time prediction (hours)
+50                  12586269024                             1887.94035375            .524
+100                 354,224,848,179,261,915,074             5.31e13                  1.48e10

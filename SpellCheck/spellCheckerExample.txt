@@ -1,0 +1,17 @@
+Welcome to the spell checker
+A program by _Lindsey Turner___ and __Carter Rostron___
+Please enter a word or type STOPdog
+The closest word is dog
+The regular distance between dog and dog is 0
+The euclidean distance between dog and dog is 0.0
+Please enter a word or type STOPdoof
+The closest word is door
+The regular distance between doof and door is 1
+The euclidean distance between doof and door is 1.0
+Please enter a word or type STOPdoor
+The closest word is door
+The regular distance between door and door is 0
+The euclidean distance between door and door is 0.0
+Please enter a word or type STOPSTOP
+
+Process finished with exit code 0
