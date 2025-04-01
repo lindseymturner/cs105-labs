@@ -1,2 +1,8 @@
+ nano README.md
 # CS105 Labs
-These are my labs from Introduction to Computer Science.
+Labs from Intro to Computer Science at Haverford College.
+
+Includes work in:
+- Python programming
+- Problem solving
+- Algorithm design
